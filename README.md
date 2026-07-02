@@ -66,34 +66,26 @@
 
 <p align="left">
   <a href="https://github.com/Kn1ght-10/Falcon9">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Falcon9&theme=tokyonight&hide_border=true" alt="Falcon9"></a>
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Falcon9&theme=tokyonight&hide_border=true" alt="Falcon9"></a>
   <a href="https://github.com/Kn1ght-10/Stock-Price-Prediction">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Stock-Price-Prediction&theme=tokyonight&hide_border=true" alt="Stock-Price-Prediction"></a>
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Stock-Price-Prediction&theme=tokyonight&hide_border=true" alt="Stock-Price-Prediction"></a>
   <a href="https://github.com/Kn1ght-10/US_Police_Shootings">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=US_Police_Shootings&theme=tokyonight&hide_border=true" alt="US_Police_Shootings"></a>
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=US_Police_Shootings&theme=tokyonight&hide_border=true" alt="US_Police_Shootings"></a>
   <a href="https://github.com/Kn1ght-10/Netflix_Analysis">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Netflix_Analysis&theme=tokyonight&hide_border=true" alt="Netflix_Analysis"></a>
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Netflix_Analysis&theme=tokyonight&hide_border=true" alt="Netflix_Analysis"></a>
   <a href="https://github.com/Kn1ght-10/ChicagoDataAnalysis">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=ChicagoDataAnalysis&theme=tokyonight&hide_border=true" alt="ChicagoDataAnalysis"></a>
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=ChicagoDataAnalysis&theme=tokyonight&hide_border=true" alt="ChicagoDataAnalysis"></a>
 </p>
 
 <a href="https://github.com/Kn1ght-10?tab=repositories&sort=stargazers">
   <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kn1ght-10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-  </a>
-</p>
-
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kn1ght-10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kn1ght-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kn1ght-10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kn1ght-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
