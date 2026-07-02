@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pranav 👋
 
-<!--
-**Kn1ght-10/Kn1ght-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast building projects across data analysis, machine learning, and visualization.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **Languages:** Python, SQL
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
+- **Visualization:** Tableau, Matplotlib, Seaborn
+- **Other:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+- [Falcon9](https://github.com/Kn1ght-10/Falcon9) — Machine learning pipeline predicting Falcon 9 first-stage landing outcomes
+- [Stock-Price-Prediction](https://github.com/Kn1ght-10/Stock-Price-Prediction) — Time-series forecasting of stock prices
+- [US_Police_Shootings](https://github.com/Kn1ght-10/US_Police_Shootings) — Tableau analysis of U.S. police shooting incidents
+- [Netflix_Analysis](https://github.com/Kn1ght-10/Netflix_Analysis) — Exploratory analysis of Netflix's content catalog
+- [ChicagoDataAnalysis](https://github.com/Kn1ght-10/ChicagoDataAnalysis) — SQL-driven analysis of Chicago's public datasets
+
+Check out my [repositories](https://github.com/Kn1ght-10?tab=repositories) for more data analysis and visualization projects.
+
+## 📫 Reach me
+- Email: pranavtiwari234@gmail.com
