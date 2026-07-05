@@ -120,17 +120,21 @@
     <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=GE-Sentinal&theme=tokyonight&hide_border=true" alt="GE-Sentinal"></a>
   <a href="https://github.com/Kn1ght-10/Patient-Intake-Agent">
     <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Patient-Intake-Agent&theme=tokyonight&hide_border=true" alt="Patient-Intake-Agent"></a>
-  <a href="https://github.com/Kn1ght-10/Falcon9">
-    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Falcon9&theme=tokyonight&hide_border=true" alt="Falcon9"></a>
+  <a href="https://github.com/Kn1ght-10/olist-analytics-platform">
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=olist-analytics-platform&theme=tokyonight&hide_border=true" alt="olist-analytics-platform"></a>
   <a href="https://github.com/Kn1ght-10/US_Police_Shootings">
     <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=US_Police_Shootings&theme=tokyonight&hide_border=true" alt="US_Police_Shootings"></a>
-  <a href="https://github.com/Kn1ght-10/Stock-Price-Prediction">
-    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Stock-Price-Prediction&theme=tokyonight&hide_border=true" alt="Stock-Price-Prediction"></a>
-  <a href="https://github.com/Kn1ght-10/Netflix_Analysis">
-    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=Netflix_Analysis&theme=tokyonight&hide_border=true" alt="Netflix_Analysis"></a>
+  <a href="https://github.com/Kn1ght-10/churn-uplift-system">
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=churn-uplift-system&theme=tokyonight&hide_border=true" alt="churn-uplift-system"></a>
+  <a href="https://github.com/Kn1ght-10/support-copilot">
+    <img width="380" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kn1ght-10&repo=support-copilot&theme=tokyonight&hide_border=true" alt="support-copilot"></a>
 </p>
 
 ### 🌟 Project Highlights
+
+- 🤖 **[support-copilot](https://github.com/Kn1ght-10/support-copilot)** — Production-shaped **RAG + tool-calling agent** with the part most portfolio projects skip: a **200-case golden eval set and CI quality gate** that fails the build on retrieval regression, guardrail escape, or SQL-harness failure. Hybrid retrieval (BM25 + dense RRF + rerank), AST-validated read-only text-to-SQL, PII redaction, cost/latency tracing — runs end-to-end with **zero API keys**
+- 📈 **[churn-uplift-system](https://github.com/Kn1ght-10/churn-uplift-system)** — Churn early-warning + **uplift targeting**: calibrated LightGBM (strict temporal validation, AUC 0.77, Brier 0.11), T-learner over a simulated RCT that **beat propensity targeting by 38% in campaign profit**, profit-curve thresholds, power-analyzed A/B design, FastAPI serving with PSI/Evidently drift gates
+- 🏗️ **[olist-analytics-platform](https://github.com/Kn1ght-10/olist-analytics-platform)** — Analytics engineering done properly: **dbt + DuckDB warehouse (17 models, 66 CI-gated data-quality tests)**, cohort/RFM/delivery-impact marts, Streamlit executive dashboard, and a decision memo whose numbers are **computed from the warehouse, never hand-typed**
 
 - 🚨 **[GE-Sentinel](https://github.com/Kn1ght-10/GE-Sentinal)** — Market manipulation & anomaly detection on high-volume time-series data. Six-detector ensemble (statistical z-scores, weak supervision, Isolation Forest, DBSCAN, seasonal-naive forecasting, gradient-boosted re-ranker) hitting **0.93 AUC**, deployed as a **FastAPI + Streamlit** monitoring tool surfacing ~6.5 ranked high-confidence alerts/day
 - 🤖 **[Patient Intake & Scheduling Agent](https://github.com/Kn1ght-10/Patient-Intake-Agent)** — Autonomous GenAI agent on the **Claude API** that investigates free-text requests, calls tools, and decides outcomes with human-escalation guardrails. Shipped with a **19-test CI suite, Docker deployment, and web + voice front-end**
